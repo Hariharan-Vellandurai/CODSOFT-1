@@ -26,6 +26,11 @@ This repository contains the source code for a simple yet engaging Number Guessi
 * Open the project in NetBeans IDE 20.
   
 * Run the NumberGuessingGame.java file to start the game.
+
+# 📝 License:
+
+* This project is licensed under the MIT License.
+* Let the guessing games begin! 🚀🔢
   
 
 # 🤝 Contributing:
