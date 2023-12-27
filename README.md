@@ -15,3 +15,6 @@ This repository contains the source code for a simple yet engaging Number Guessi
 * **Multiple Rounds:** Players can opt for multiple rounds, enhancing the overall gaming experience.
 
 * **Score Tracking:** Cumulative scoring based on the number of attempts or rounds won.
+
+# 🤝 Contributing:
+* **Contributions are welcome! Feel free to open issues, suggest improvements, or add new features to enhance the game.**
