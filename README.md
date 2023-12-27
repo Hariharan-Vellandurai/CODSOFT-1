@@ -16,5 +16,14 @@ This repository contains the source code for a simple yet engaging Number Guessi
 
 * **Score Tracking:** Cumulative scoring based on the number of attempts or rounds won.
 
+# 🚀 Getting Started:
+
+* Clone the repository to your local machine
+
+* Open the project in NetBeans IDE 20.
+  
+* Run the NumberGuessingGame.java file to start the game.
+  
+
 # 🤝 Contributing:
 * **Contributions are welcome! Feel free to open issues, suggest improvements, or add new features to enhance the game.**
