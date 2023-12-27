@@ -20,6 +20,9 @@ This repository contains the source code for a simple yet engaging Number Guessi
 
 * Clone the repository to your local machine
 
+      git clone https://github.com/Hariharan-Vellandurai/NUMBER-GUESSING-GAME.git
+
+
 * Open the project in NetBeans IDE 20.
   
 * Run the NumberGuessingGame.java file to start the game.
