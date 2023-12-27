@@ -7,7 +7,11 @@ This repository contains the source code for a simple yet engaging Number Guessi
 # 🔧 Key Features:
 
 * **Random Number Generation:** The game generates a random number within a user-specified range.
+  
 * **User Interaction:** Players are prompted to enter their guesses, and the game provides immediate feedback.
+  
 * **Attempt Limit:** The number of attempts is limited, adding a challenging element to the game.
+  
 * **Multiple Rounds:** Players can opt for multiple rounds, enhancing the overall gaming experience.
+
 * **Score Tracking:** Cumulative scoring based on the number of attempts or rounds won.
